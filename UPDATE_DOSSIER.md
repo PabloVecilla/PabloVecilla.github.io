@@ -2,6 +2,12 @@
 
 Updated: 10 September 2026
 
+## Post-delivery image update
+
+- Replaced `images/portada.jpeg` with the user-supplied portrait.
+- Applied a natural background-only blur while keeping Pablo as the sharp focal subject.
+- Exported the final hero image as an optimised 880 × 1100 JPEG in the exact 4:5 ratio used by the responsive hero frame.
+
 ## Outcome
 
 The portfolio now presents Pablo as a full-stack developer with an advertising background. English is the default language, with a persistent English/Spanish switch in the header. The original visual identity remains intact: the same DM Serif Display and Roboto Flex typefaces, colour palette, spacing system, portrait treatment, section rhythm and responsive breakpoints are still in use.
