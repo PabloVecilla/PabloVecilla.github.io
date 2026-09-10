@@ -88,7 +88,7 @@
                 'header.openMenu': 'Abrir menú',
                 'header.navigation': 'Navegación principal',
                 'hero.pretitle': 'Hola, soy Pablo',
-                'hero.title': 'Desarrollador full-stack<br>con experiencia en<br>publicidad y una mirada<br>centrada en las personas.',
+                'hero.title': 'Desarrollador full-stack con experiencia en publicidad.<br class="hero-title__break">Centrado en las personas',
                 'hero.imageAlt': 'Retrato de Pablo Vecilla',
                 'hero.scroll': 'Desliza para descubrir',
                 'projects.label': 'Proyectos',
