@@ -4223,13 +4223,17 @@ td:last-child {
 	text-align: left;
 }
 
-.project-card__inner {
+.project-card>.project-card__inner {
 	display       : flex;
 	flex-direction: column;
 	width         : 100%;
 	min-height    : 34rem;
 	padding       : var(--vspace-1_25) var(--vspace-1);
 	transition    : background-color 0.5s ease-in;
+}
+
+.project-card>a.project-card__inner {
+	cursor: pointer;
 }
 
 .project-card__inner:hover {

@@ -9,8 +9,8 @@ Updated: 10 September 2026
 - Exported the final hero image as an optimised 880 × 1100 JPEG in the exact 4:5 ratio used by the responsive hero frame.
 - Expanded the hero-title grid area and text box so the headline remains fully visible.
 - Shortened the Spanish hero title to “Desarrollador full-stack con experiencia en publicidad. Centrado en las personas”, with one deliberate line break before “Centrado”.
-- Removed the temporary About portrait after review while retaining its empty 4:5 container for a future replacement.
-- The reserved About-image container remains below the name on desktop and to its right at tablet and mobile widths.
+- Removed the temporary About portrait after review and commented out its empty 4:5 container, restoring the original About-section layout while keeping the markup ready for a future replacement.
+- Made the complete Workout Bud and Weather App project cards clickable, opening their deployed Netlify applications in new tabs without changing the existing hover treatment or colours.
 
 ## Outcome
 
