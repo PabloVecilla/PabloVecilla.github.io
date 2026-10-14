@@ -38,7 +38,7 @@
                 'header.openMenu': 'Open menu',
                 'header.navigation': 'Primary navigation',
                 'hero.pretitle': "Hi, I'm Pablo",
-                'hero.title': 'Full-stack developer<br>with an advertising<br>background and a<br>user-first mindset.',
+                'hero.title': 'Full-stack developer <br>with an advertising <br>background and <br>user-first mindset.',
                 'hero.imageAlt': 'Portrait of Pablo Vecilla',
                 'hero.scroll': 'Scroll to explore',
                 'projects.label': 'Projects',
